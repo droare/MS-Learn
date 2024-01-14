@@ -1,0 +1,15 @@
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\bin\Debug\net8.0\E4 matrices.exe
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\bin\Debug\net8.0\E4 matrices.deps.json
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\bin\Debug\net8.0\E4 matrices.runtimeconfig.json
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\bin\Debug\net8.0\E4 matrices.dll
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\bin\Debug\net8.0\E4 matrices.pdb
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.AssemblyInfoInputs.cache
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.AssemblyInfo.cs
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.csproj.CoreCompileInputs.cache
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.sourcelink.json
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.dll
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\refint\E4 matrices.dll
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.pdb
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\E4 matrices.genruntimeconfig.cache
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject\E4\obj\Debug\net8.0\ref\E4 matrices.dll

@@ -1,0 +1,15 @@
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\bin\Debug\net8.0\TestProject3.exe
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\bin\Debug\net8.0\TestProject3.deps.json
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\bin\Debug\net8.0\TestProject3.runtimeconfig.json
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\bin\Debug\net8.0\TestProject3.dll
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\bin\Debug\net8.0\TestProject3.pdb
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.AssemblyInfoInputs.cache
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.AssemblyInfo.cs
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.csproj.CoreCompileInputs.cache
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.sourcelink.json
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.dll
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\refint\TestProject3.dll
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.pdb
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\TestProject3.genruntimeconfig.cache
+C:\Users\droar\Documents\Microsoft Learn\MS-Learn\Introducción al desarrollo en C#\Ejercicio Llamada a los métodos de una clase .NET\CsharpProjects\TestProject3\obj\Debug\net8.0\ref\TestProject3.dll
